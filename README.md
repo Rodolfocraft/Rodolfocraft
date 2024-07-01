@@ -1,4 +1,9 @@
+
 # 👋 Hi, I'm Gustavo Rodolfo Farje Vasquez
+<div align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 ## 🎓 About Me
 I am a dedicated student pursuing a degree in **Information Systems Engineering** at the prestigious **Peruvian University of Applied Sciences (UPC)**. My academic journey has equipped me with a solid foundation in both theoretical knowledge and practical skills.
