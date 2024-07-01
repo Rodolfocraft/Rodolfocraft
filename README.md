@@ -26,13 +26,29 @@ Throughout my studies and personal projects, I have:
 - Developed backend services and APIs with **Springboot** and **SQL**.
 - Designed and managed databases to ensure data integrity and performance.
 - Created interactive user interfaces and prototypes using **Figma**.
+  
+<p display="flex" align="center" >
+<table justify-content="center" align="center">
+<tr border="1 p" align="center">
+<td width="50%">
+  <img  align="left" width="100%" margin="10px" src="https://github-readme-stats.vercel.app/api?username=Rodolfocraft&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img align="right" width="100%" margin="10px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rodolfocraft&theme=dark&hide_border=false" /> 
+    <br></br>
+</td>
+<td>
+<img align-self="center" margin="10px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rodolfocraft&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+</td>
+</tr>
+</table>
+</p>
 
 ## 📫 Contact Me
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out to me at:
 - 📧 Email: [rodolfofarje@hotmail.com](mailto:rodolfofarje@hotmail.com)
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com)
-- [GitHub](https://github.com)
+- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/gustavo-farje-wd/))
+- [GitHub]([https://github.com](https://github.com/Rodolfocraft))
 
 Thank you for visiting my profile! Let's connect and create something amazing together.
