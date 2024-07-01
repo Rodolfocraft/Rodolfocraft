@@ -53,7 +53,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 - 📧 Email: [rodolfofarje@hotmail.com](mailto:rodolfofarje@hotmail.com)
 
 ## 🌐 Connect with Me
-- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/gustavo-farje-wd/))
-- [GitHub]([https://github.com](https://github.com/Rodolfocraft))
+- [LinkedIn] [(https://www.linkedin.com](https://www.linkedin.com/in/gustavo-farje-wd/)]
+- [GitHub] [(https://github.com](https://github.com/Rodolfocraft)]
 
 Thank you for visiting my profile! Let's connect and create something amazing together.
